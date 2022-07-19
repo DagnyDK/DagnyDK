@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Github and Sass
 - 🤔 I’m looking for help with getting out of Florida
 - 💬 Ask me about how much I want to get out of Florida
+- 🌇 I'll be back in Chicago at some point
 - 📫 How to reach me: dkight.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was on the Dr. Phil show
