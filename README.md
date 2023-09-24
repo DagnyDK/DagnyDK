@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a website for a healthcare consulting firm
+- 🔭 I’m currently working on a website in a healthcare niche
 - 🌱 I’m currently learning Github and Sass
 - 🤔 I’m looking for help with getting out of Florida
 - 💬 Ask me about how much I want to get out of Florida
